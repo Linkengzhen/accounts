@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "id": "wJ_8Vctka",
+      "title": "妈妈发钱",
+      "time": "2023-12-04",
+      "type": "1",
+      "account": "500",
+      "remarks": "妈妈发钱"
+    },
+    {
+      "id": "zY55TMDBD",
+      "title": "吃大餐",
+      "time": "2024-01-01",
+      "type": "-1",
+      "account": "488",
+      "remarks": "照顾二弟吃大餐"
+    },
+    {
+      "id": "lQd3J-ZF-",
+      "title": "交电话费",
+      "time": "2023-11-30",
+      "type": "-1",
+      "account": "68",
+      "remarks": "交电话费费用"
+    },
+    {
+      "id": "fbK1NauGW",
+      "title": "发工资",
+      "time": "2023-11-30",
+      "type": "1",
+      "account": "15000",
+      "remarks": "今天发工资啦！~~"
+    }
+  ]
+}
